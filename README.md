@@ -1,9 +1,10 @@
 # Speech-to-Text Note-Taking Application
+![image](https://github.com/adhamqo/Speech-to-note-taking-app/assets/152626241/40d9f9e2-5cfe-428f-964e-bf416ee40a66)
+
 
 ## Overview
 
 This Speech-to-Text Note-Taking Application is designed for educational purposes, converting spoken language into text with high precision and efficiency. The application supports various audio input formats including real-time microphone recordings, file uploads, and YouTube video URLs. It utilizes advanced models like Wav2Vec2 and HuBERT for transcription, T5 for punctuation correction and summarization, and incorporates speaker diarization. Built with Streamlit, the application offers a dynamic and interactive user experience. 
-![image](https://github.com/adhamqo/Speech-to-note-taking-app/assets/152626241/40d9f9e2-5cfe-428f-964e-bf416ee40a66)
 
 
 ## Features
