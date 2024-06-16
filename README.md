@@ -1,5 +1,5 @@
 # Speech-to-Text Note-Taking Application
-![image](https://github.com/adhamqo/Speech-to-note-taking-app/assets/152626241/40d9f9e2-5cfe-428f-964e-bf416ee40a66)
+##![image](https://github.com/adhamqo/Speech-to-note-taking-app/assets/152626241/40d9f9e2-5cfe-428f-964e-bf416ee40a66)
 
 
 ## Overview
